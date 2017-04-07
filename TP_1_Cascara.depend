@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1491314922 source:c:\users\miguel.a.tadakuma\desktop\curso programacion utn\tp_1_cascara\tp_1_cascara\funciones.c
+
+1491312854 source:c:\users\miguel.a.tadakuma\desktop\curso programacion utn\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491313065 c:\users\miguel.a.tadakuma\desktop\curso programacion utn\tp_1_cascara\tp_1_cascara\funciones.h
+
+1491558693 source:c:\users\storml\desktop\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1491558747 source:c:\users\storml\desktop\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491507470 c:\users\storml\desktop\tp_1_cascara\tp_1_cascara\funciones.h
+
+1491560849 source:c:\users\storml\desktop\tp_1_cascara_miguel_a_tadakuma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491507470 c:\users\storml\desktop\tp_1_cascara_miguel_a_tadakuma\funciones.h
+
+1491579629 source:c:\users\miguel.a.tadakuma\downloads\tp_1_cascara_miguel_a_tadakuma-20170407t113115z-001\tp_1_cascara_miguel_a_tadakuma\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1491580959 source:c:\users\miguel.a.tadakuma\downloads\tp_1_cascara_miguel_a_tadakuma-20170407t113115z-001\tp_1_cascara_miguel_a_tadakuma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491579629 c:\users\miguel.a.tadakuma\downloads\tp_1_cascara_miguel_a_tadakuma-20170407t113115z-001\tp_1_cascara_miguel_a_tadakuma\funciones.h
+
+1491575848 source:c:\users\storml\downloads\tp_1_cascara_miguel_a_tadakuma\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491575850 c:\users\storml\downloads\tp_1_cascara_miguel_a_tadakuma\funciones.h
+
+1491602645 source:c:\users\storml\downloads\tp_1_cascara_miguel_a_tadakuma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
